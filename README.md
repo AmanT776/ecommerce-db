@@ -1,7 +1,3 @@
-Here’s a professional and detailed `README.md` file for your database project:
-
----
-
 # 🛍️ E-Commerce Product Catalog Database
 
 This project provides a robust and scalable **relational database schema** for managing an **e-commerce product catalog**. It is designed to support a wide variety of product configurations, variations, attributes, and inventory management functionalities.
